@@ -19,6 +19,6 @@ Welcome to the Bike Store Sales Analysis project!📊 In this project, I've util
 
 ## Additional Analysis:
 
-But that's not all! In addition to SQL analysis, I've harnessed the power of Excel pivot tables and dashboards to transform raw data into actionable insights. 📊✨ And to take the analysis even further, I've crafted an interactive and visually compelling sales performance dashboard in Tableau, providing a dynamic way to explore the data and extract insights. 🖥️💬
+But that's not all! In addition to SQL analysis, I've harnessed the power of Excel pivot tables and dashboards to transform raw data into actionable insights. And to take the analysis even further, I've crafted an interactive and visually compelling sales performance dashboard in Tableau, providing a dynamic way to explore the data and extract insights. 
 
 
